@@ -1,1 +1,8 @@
+Scope:
+Windows 10 Home
 
+Steps:
+1. Press key combination win + R
+2. Opened a window cmd 
+
+Expected behavion: opened a window to Paris
