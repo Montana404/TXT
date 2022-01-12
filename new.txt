@@ -1,0 +1,4 @@
+Name : Sergey
+Age : 37
+Pets: 0
+Sallary : 4500
