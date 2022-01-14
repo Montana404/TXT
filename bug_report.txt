@@ -1,8 +1,19 @@
-Scope:
-Windows 10 Home
+Summary: 
+Login: Error messages in the login form are displayed in English
 
-Steps:
-1. Press key combination win + R
-2. Opened a window cmd 
+Environment:
+All browseres / devices
 
-Expected behavion: opened a window to Paris
+Severity:
+Major
+
+Step to reproduce: 
+1. Open front end https://www.test-obelink.be:8443/"
+2. Follow inloggen link
+3. Fill required fields with invalid data
+4. Click inloggen button
+5. Pay attention to error messages
+
+Actual results: Error messages in the login form are displayed in English
+Expected result: Error messages in the login form are displayed in the chosen language
+Attachment: http://prntser.com/k905cq
